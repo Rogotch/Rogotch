@@ -8,12 +8,7 @@
 </p>
 
 ---
-
-<p>Меня зовут Денис, я - геймдев-разработчик, что обожает игры! (^o-o^)</p> 
-Я работаю с Unity3D / Godot Engine, люблю создавать игровые механики и интерфейсы - всё то, с чем непосредственно взаимодействуют игроки. Я мечтаю работать над игрой, что будет приносить тёплые эмоции и чувство свободы игрокам, что будут в неё играть! :)</p>
-
-<p>My name is Denis. I am game developer, who loves games! (^o-o^)</p> 
-<p>I am working on Unity3D / Godot Engine and I love to create game mechanics and UI - everything that players interact with directly. My dream is to work on a game that will bring warm emotions and a sense of freedom to the players who will play it! :)</p>
+Middle Game Developer on Godot Engine. RU / ENG
 
 <!--
 **Rogotch/Rogotch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
