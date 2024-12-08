@@ -8,7 +8,7 @@
 </p>
 
 ---
-Middle Game Developer on Godot Engine. RU / ENG
+Game Developer on Godot Engine and Unity Engine. RU / ENG
 
 <!--
 **Rogotch/Rogotch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
