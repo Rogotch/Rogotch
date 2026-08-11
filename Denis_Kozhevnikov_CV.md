@@ -1,11 +1,11 @@
 Кожевников Денис Владимирович
 
-| Telegram     | EMail             | Формат работы | Занятость          | Github                     | Itch.io                  |
-| ------------ | ----------------- | ------------- | ------------------ | -------------------------- | ------------------------ |
-| t.me/rogotch | rogotch@gmail.com | Удалённо      | Полная и частичная | https://github.com/Rogotch | https://rogotch.itch.io/ |
+| Telegram     | EMail             | Формат работы | Занятость          | Github                     | Itch.io                  | DeadWeight                                             |
+| ------------ | ----------------- | ------------- | ------------------ | -------------------------- | ------------------------ | ------------------------------------------------------ |
+| t.me/rogotch | rogotch@gmail.com | Удалённо      | Полная и частичная | https://github.com/Rogotch | https://rogotch.itch.io/ | https://store.steampowered.com/app/2646720/Dead_Weight/|
 
 Навыки  
-	Unity; C#; Godot; GDScript; Git; ООП; MS VisualStudio; Android; JSON API; Наставничество; SOLID; UI
+	Unity; C#; Godot; GDScript; Git; ООП; SOLID; DI; Android; JSON; Наставничество; CodeReview; UI
 
 Языки
     Русский — Родной
