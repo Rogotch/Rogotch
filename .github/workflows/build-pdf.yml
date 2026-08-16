@@ -16,8 +16,8 @@ jobs:
         uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_path: Denis_Kozhevnikov_CV.md
-          output_path: Denis_Kozhevnikov_CV.pdf
-          image_imports: true
+          output_dir: ./
+          build_pdf: true
 
       - name: Upload PDF as artifact
         uses: actions/upload-artifact@v4
