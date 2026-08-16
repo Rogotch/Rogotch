@@ -1,13 +1,10 @@
 # Game Developer (Unity3D / Godot Engine)
-<a href="https://raw.githubusercontent.com/Rogotch/Rogotch/main/Denis_Kozhevnikov_CV.pdf">
-  <img src="https://img.shields.io/badge/📄-Скачать_резюме-blue?style=for-the-badge" alt="Скачать резюме">
-</a>
-
+[📄 Скачать резюме PDF](https://raw.githubusercontent.com/Rogotch/Rogotch/main/Denis_Kozhevnikov_CV.pdf)
 | ФИО                          | Год рождения | Формат работы | Занятость          | Опыт работы     |
 | ---------------------------- | ------------ | ------------- | ------------------ | --------------- |
 | Кожевников Денис Владимирович| 1998         | Удалённо      | Полная и частичная | 4 года 2 месяца |
 
-## Контакты
+## Ссылки и контакты
 | Telegram             | EMail             | Github                     | Itch.io                  |
 | -------------------- | ----------------- | -------------------------- | ------------------------ |
 | https://t.me/rogotch | rogotch@gmail.com | https://github.com/Rogotch | https://rogotch.itch.io/ |
