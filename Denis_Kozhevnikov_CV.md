@@ -83,7 +83,7 @@ https://play.google.com/store/apps/details?id=games.misu.zombie.room.survival.ga
 ## Примеры других работ
 ### Astrominer
 [Ссылка](https://github.com/Rogotch/Astrominer)
-<div style="width: 860px; height: 320px; overflow: hidden; display: inline-block;">
+<div style="width: 430px; height: 160px; overflow: hidden; display: inline-block;">
       <img width="857" height="320" alt="screenshoot_astrominer" src="https://github.com/user-attachments/assets/e5e20599-9067-402b-bff6-60d86a4ce6cf" />
 </div>
 Игра про космического шахтёра, что вынужден копать астероиды в глубоком космосе, чтобы расплатиться с кредитами и долгами.
