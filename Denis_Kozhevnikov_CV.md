@@ -83,9 +83,13 @@ https://play.google.com/store/apps/details?id=games.misu.zombie.room.survival.ga
 ## Примеры других работ
 ### Astrominer
 [Ссылка](https://github.com/Rogotch/Astrominer)
-<div style="width: 430px; height: 160px; overflow: hidden; display: inline-block;">
-      <img width="857" height="320" alt="screenshoot_astrominer" src="https://github.com/user-attachments/assets/e5e20599-9067-402b-bff6-60d86a4ce6cf" />
-</div>
+<table>
+  <tr>
+    <td width="430" height="160" align="left" valign="middle" style="border: none; padding: 0;">
+      <img alt="screenshoot_astrominer" src="https://github.com/user-attachments/assets/e5e20599-9067-402b-bff6-60d86a4ce6cf" width="430" height="160" style="display: block;" />
+    </td>
+  </tr>
+</table>
 Игра про космического шахтёра, что вынужден копать астероиды в глубоком космосе, чтобы расплатиться с кредитами и долгами.
 Особенности:
 - Прототип, сделан на Unity 6.3;
@@ -105,7 +109,7 @@ https://play.google.com/store/apps/details?id=games.misu.zombie.room.survival.ga
 [Ссылка](https://github.com/Rogotch/PlanetConstructor)
 <table>
   <tr>
-    <td width="430" height="160" align="center" valign="middle" style="border: none; padding: 0;">
+    <td width="430" height="160" align="left" valign="middle" style="border: none; padding: 0;">
       <img alt="pc_scr" src="https://github.com/user-attachments/assets/041fa9e6-db99-41b3-b6e6-728c063013c9" width="430" height="160" style="display: block;" />
     </td>
   </tr>
@@ -120,9 +124,13 @@ https://play.google.com/store/apps/details?id=games.misu.zombie.room.survival.ga
 
 ### Neurovirus
 [Ссылка](https://rogotch.itch.io/neirovirus)
-<div style="width: 860px; height: 320px; overflow: hidden; display: inline-block;">
-      <img width="860" height="320" alt="nv_scr" src="https://github.com/user-attachments/assets/903b8f18-5a65-4868-b347-dc108bbf42ad" />
-</div>
+<table>
+  <tr>
+    <td width="430" height="160" align="left" valign="middle" style="border: none; padding: 0;">
+      <img alt="nv_scr" src="https://github.com/user-attachments/assets/903b8f18-5a65-4868-b347-dc108bbf42ad" width="430" height="160" style="display: block;" />
+    </td>
+  </tr>
+</table>
 Игра, в которой ты играешь за нейровирус и захватываешь чужие тела, чтобы выбраться из тайного научного комплекса
 Особенности:
 - Игра выполнена за два дня в одиночку на Godot 4 на геймджем;
@@ -134,9 +142,13 @@ https://play.google.com/store/apps/details?id=games.misu.zombie.room.survival.ga
 
 ### This is The Bastard
 [Ссылка](https://newgamestudio.itch.io/bastard)
-<div style="width: 860px; height: 320px; overflow: hidden; display: inline-block;">
-      <img width="860" height="320" alt="titb_scr" src="https://github.com/user-attachments/assets/96d04813-d396-4515-82a7-93415557a999" />
-</div>
+<table>
+  <tr>
+    <td width="430" height="160" align="left" valign="middle" style="border: none; padding: 0;">
+      <img alt="titb_scr" src="https://github.com/user-attachments/assets/96d04813-d396-4515-82a7-93415557a999" width="430" height="160" style="display: block;" />
+    </td>
+  </tr>
+</table>
 Игра про бастарда в духе Dispatch или This is the Police
 Особенности:
 - Игра полностью сделана с нуля на Godot 3 за неделю на геймджем;
