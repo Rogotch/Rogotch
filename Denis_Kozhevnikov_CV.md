@@ -103,9 +103,13 @@ https://play.google.com/store/apps/details?id=games.misu.zombie.room.survival.ga
 
 ### PlanetConstructor
 [Ссылка](https://github.com/Rogotch/PlanetConstructor)
-<div style="width: 860px; height: 320px; overflow: hidden; display: inline-block;">
-     <img width="860" height="320" alt="pc_scr" src="https://github.com/user-attachments/assets/041fa9e6-db99-41b3-b6e6-728c063013c9" />
-</div>
+<table>
+  <tr>
+    <td width="430" height="160" align="center" valign="middle" style="border: none; padding: 0;">
+      <img alt="pc_scr" src="https://github.com/user-attachments/assets/041fa9e6-db99-41b3-b6e6-728c063013c9" width="430" height="160" style="display: block;" />
+    </td>
+  </tr>
+</table>
 Плагин для Godot 4.x, который позволяет собирать комплексные многослойные объекты с использованием шейдеров и оперировать их параметрами прямо из инспектора, без необходимости заходить в настройки материала.
 Особенности:
 - Возможность создавать сложные объекты из слоёв-шейдеров, упрощая оперирование с шейдерами и их использование;
