@@ -83,6 +83,7 @@ https://play.google.com/store/apps/details?id=games.misu.zombie.room.survival.ga
 ## Примеры других работ
 ### Astrominer
 [Ссылка](https://github.com/Rogotch/Astrominer)
+
 Игра про космического шахтёра, что вынужден копать астероиды в глубоком космосе, чтобы расплатиться с кредитами и долгами.
 
 Особенности:
@@ -101,6 +102,7 @@ https://play.google.com/store/apps/details?id=games.misu.zombie.room.survival.ga
 
 ### PlanetConstructor
 [Ссылка](https://github.com/Rogotch/PlanetConstructor)
+
 Плагин для Godot 4.x, который позволяет собирать комплексные многослойные объекты с использованием шейдеров и оперировать их параметрами прямо из инспектора, без необходимости заходить в настройки материала.
 
 Особенности:
@@ -112,6 +114,7 @@ https://play.google.com/store/apps/details?id=games.misu.zombie.room.survival.ga
 
 ### Neurovirus
 [Ссылка](https://rogotch.itch.io/neirovirus)
+
 Игра, в которой ты играешь за нейровирус и захватываешь чужие тела, чтобы выбраться из тайного научного комплекса
 
 Особенности:
@@ -124,6 +127,7 @@ https://play.google.com/store/apps/details?id=games.misu.zombie.room.survival.ga
 
 ### This is The Bastard
 [Ссылка](https://newgamestudio.itch.io/bastard)
+
 Игра про бастарда в духе Dispatch или This is the Police
 
 Особенности:
